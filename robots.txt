@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /dev237162.html
 Disallow: /WithAdblockNoJS.PNG
 Disallow: /WithNoAdblockNoJS.PNG
 Disallow: /webIcon.PNG
