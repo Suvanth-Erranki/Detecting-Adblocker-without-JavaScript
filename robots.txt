@@ -2,3 +2,4 @@ User-agent: *
 Disallow: /WithAdblockNoJS.PNG
 Disallow: /WithNoAdblockNoJS.PNG
 Disallow: /webIcon.PNG
+Disallow: /README.md
