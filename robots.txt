@@ -3,3 +3,4 @@ Disallow: /WithAdblockNoJS.PNG
 Disallow: /WithNoAdblockNoJS.PNG
 Disallow: /webIcon.PNG
 Disallow: /README.md
+Sitemap: https://detecting-adblocker-without-javascript.suvanth.repl.co/sitemap.xml
